@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "68ae4bf98cf74b3a1e216bef"
+  },
+  "code": "Shop cellabrate",
+  "discountPercentage": 10,
+  "expirationDate": {
+    "$date": "2025-09-07T00:00:00.000Z"
+  },
+  "isActive": true,
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "createdAt": {
+    "$date": "2025-08-27T00:06:17.748Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T00:06:17.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae4c208cf74b3a1e216bfb"
+  },
+  "code": "Shop break free",
+  "discountPercentage": 10,
+  "expirationDate": {
+    "$date": "2025-09-07T00:00:00.000Z"
+  },
+  "isActive": false,
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "createdAt": {
+    "$date": "2025-08-27T00:06:56.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T00:23:20.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae4f008cf74b3a1e216c29"
+  },
+  "code": "New break",
+  "discountPercentage": 20,
+  "expirationDate": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "isActive": true,
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "createdAt": {
+    "$date": "2025-08-27T00:19:12.298Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T00:19:12.298Z"
+  },
+  "__v": 0
+}]

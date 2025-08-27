@@ -1,0 +1,230 @@
+[{
+  "_id": {
+    "$oid": "68adcbf628062c0a22d289f2"
+  },
+  "name": "Nike",
+  "description": "Nike",
+  "price": 30,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756220404/products/hnyvkfsrg368od6wtpju.jpg",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2c"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T15:00:06.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T15:00:06.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae0eb273bc674945902ed5"
+  },
+  "name": "Adidas Forum",
+  "description": "Giày Adidas Forum 84 Trắng Đen REP 1:1",
+  "price": 35,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756237489/products/rn9nqarba77i591lqzt2.jpg",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2c"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T19:44:50.034Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T19:44:50.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae11d42b21da1ba74848da"
+  },
+  "name": "Vans Vault",
+  "description": "Vans Vault Da Lộn Trắng Viền Navy REP 1:1",
+  "price": 35,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756238291/products/rcbwzfce7r3ron0o7j2d.jpg",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2c"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T19:58:12.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T19:58:12.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae185a2b21da1ba74848ff"
+  },
+  "name": "Regular AT175",
+  "description": "Regular AT175",
+  "price": 25,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756239962/products/bzbcufzkxy1jmw57cpzq.jpg",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2b"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T20:26:02.682Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T20:26:02.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae18a12b21da1ba748490d"
+  },
+  "name": "Jean Thêu Liberty M Form Slimfit",
+  "description": "Jean Thêu Liberty M Form Slimfit",
+  "price": 32,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756240032/products/qf9vdmaaksrupvyirymw.jpg",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2a"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T20:27:13.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T20:27:13.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae18eb2b21da1ba748491b"
+  },
+  "name": "Túi Xách Jean TX018",
+  "description": "Túi Xách Jean TX018",
+  "price": 12,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756240106/products/famaxc2spczukkhc0jvo.jpg",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e30"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T20:28:27.019Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T20:28:27.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae1fe92b21da1ba748492b"
+  },
+  "name": "Kính Mát Nam AMO AMO41607 C1",
+  "description": "Kính Mát Nam AMO AMO41607 C1",
+  "price": 20,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756241896/products/qhagkmm9ihgaomo3yfzy.png",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2d"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T20:58:17.331Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T20:58:17.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae20532b21da1ba7484939"
+  },
+  "name": "Dép Adidas Original",
+  "description": "Dép Adidas Original",
+  "price": 20,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756242002/products/xdsnncs6i75hue7mifg7.jpg",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2c"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T21:00:03.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T21:00:03.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae20a72b21da1ba7484947"
+  },
+  "name": "Kính Mát Nữ ANCCI AC202211 C22",
+  "description": "Kính Mát Nữ ANCCI AC202211 C22",
+  "price": 20,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756242086/products/lfy5axn9sih98cgc8pmq.png",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2d"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T21:01:27.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T21:01:27.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae21eb2b21da1ba748496f"
+  },
+  "name": "Áo khoác gió nam ghi chính hãng (AKN-182)",
+  "description": "Áo khoác gió nam ghi chính hãng (AKN-182)",
+  "price": 45,
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756242410/products/hiyiiw1qs6wvmlfxkwj9.jpg",
+  "categoryId": {
+    "$oid": "68aad7db201a93f970dd2e2e"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-08-26T21:06:51.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T21:06:51.606Z"
+  },
+  "__v": 0
+}]

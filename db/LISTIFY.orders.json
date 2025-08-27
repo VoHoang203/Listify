@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "68ae8888cf95f7512433a0b4"
+  },
+  "buyerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "68adcbf628062c0a22d289f2"
+      },
+      "quantity": 3,
+      "price": 24,
+      "sellerId": {
+        "$oid": "68ac7fd1ae9f5f50b3d99abe"
+      },
+      "_id": {
+        "$oid": "68ae8888cf95f7512433a0b5"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68ae21eb2b21da1ba748496f"
+      },
+      "quantity": 1,
+      "price": 36,
+      "sellerId": {
+        "$oid": "68ac7fd1ae9f5f50b3d99abe"
+      },
+      "_id": {
+        "$oid": "68ae8888cf95f7512433a0b6"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68ae185a2b21da1ba74848ff"
+      },
+      "quantity": 1,
+      "price": 20,
+      "sellerId": {
+        "$oid": "68ac7fd1ae9f5f50b3d99abe"
+      },
+      "_id": {
+        "$oid": "68ae8888cf95f7512433a0b7"
+      }
+    }
+  ],
+  "totalAmount": 128,
+  "stripeSessionId": "cs_test_b1YpuixyDObWZYAHXrF3t0vpBuTDnXaBwcqByvR1hfwiyewqwXK8cVI7OK",
+  "createdAt": {
+    "$date": "2025-08-27T04:24:40.814Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T04:24:40.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aeb43a6b889e357c017238"
+  },
+  "buyerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "68ae18a12b21da1ba748490d"
+      },
+      "quantity": 3,
+      "price": 25.6,
+      "sellerId": {
+        "$oid": "68ac7fd1ae9f5f50b3d99abe"
+      },
+      "_id": {
+        "$oid": "68aeb43a6b889e357c017239"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68ae185a2b21da1ba74848ff"
+      },
+      "quantity": 1,
+      "price": 20,
+      "sellerId": {
+        "$oid": "68ac7fd1ae9f5f50b3d99abe"
+      },
+      "_id": {
+        "$oid": "68aeb43a6b889e357c01723a"
+      }
+    }
+  ],
+  "totalAmount": 96.8,
+  "stripeSessionId": "cs_test_b12fuerhjIHnRvmtG9Rs2CcjoN7CA3VRSN8GN0JJdHgRsLKF6dG9nZG5QA",
+  "createdAt": {
+    "$date": "2025-08-27T07:31:06.716Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T07:31:06.716Z"
+  },
+  "__v": 0
+}]
