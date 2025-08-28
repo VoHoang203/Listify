@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "68aea376680004eb758ad677"
+  },
+  "senderId": {
+    "$oid": "68a6440032b90640de131363"
+  },
+  "receiverId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "text": "alo",
+  "createdAt": {
+    "$date": "2025-08-27T06:19:34.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T06:19:34.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aead596b889e357c017153"
+  },
+  "senderId": {
+    "$oid": "68a6440032b90640de131363"
+  },
+  "receiverId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "text": "",
+  "image": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756278106/messages/cfkplt9oi9xcna7ascgg.jpg",
+  "createdAt": {
+    "$date": "2025-08-27T07:01:45.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T07:01:45.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aeb3dd6b889e357c01717b"
+  },
+  "senderId": {
+    "$oid": "68a6440032b90640de131363"
+  },
+  "receiverId": {
+    "$oid": "68adc709491be28a6a55a0f2"
+  },
+  "text": "alo",
+  "createdAt": {
+    "$date": "2025-08-27T07:29:33.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T07:29:33.582Z"
+  },
+  "__v": 0
+}]

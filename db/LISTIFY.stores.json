@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "68acd233fb86553da814a3bb"
+  },
+  "sellerId": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "storeName": "shoppii 278",
+  "description": " shoppii 278",
+  "bannerImageURL": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756259391/stores/banner/ftyr5xoricntuxrxdq1k.jpg",
+  "createdAt": {
+    "$date": "2025-08-25T21:14:27.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T01:49:51.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68adc747491be28a6a55a0fa"
+  },
+  "sellerId": {
+    "$oid": "68adc709491be28a6a55a0f2"
+  },
+  "storeName": "Shopii 2",
+  "description": "Shopii 2",
+  "bannerImageURL": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756219206/stores/banners/wdlbj6gifpppyenkcswg.jpg",
+  "createdAt": {
+    "$date": "2025-08-26T14:40:07.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T14:40:07.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aeb5336b889e357c0172c1"
+  },
+  "sellerId": {
+    "$oid": "68a6440032b90640de131363"
+  },
+  "storeName": "Shopii 3",
+  "description": "Shopii 3",
+  "bannerImageURL": "https://res.cloudinary.com/dzcj2jbii/image/upload/v1756280116/stores/banners/wzs5rp31tgebhdtrjqsh.jpg",
+  "createdAt": {
+    "$date": "2025-08-27T07:35:15.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T07:35:16.672Z"
+  },
+  "__v": 0
+}]

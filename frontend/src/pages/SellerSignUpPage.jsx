@@ -6,12 +6,14 @@ import { Upload, X, ImageIcon } from "lucide-react";
 import { motion } from "framer-motion";
 import toast from "react-hot-toast";
 import axios from "../lib/axios";
+import { useUserStore } from "../stores/useUserStore";
 
 const SellerSignUpPage = () => {
   const [formData, setFormData] = useState({
     name: "",
     description: "",
   });
+  const logout = useUserStore((state) => state.logout);
   const [selectedImage, setSelectedImage] = useState(null);
   const [imagePreview, setImagePreview] = useState(null);
 
@@ -65,8 +67,7 @@ const SellerSignUpPage = () => {
         role: res.data?.user?.role || "seller",
       };
       localStorage.setItem("user", JSON.stringify(updatedUser));
-
-     
+      logout();
     } catch (err) {
       toast.error(err?.response?.data?.message || "Đăng ký người bán thất bại");
     }

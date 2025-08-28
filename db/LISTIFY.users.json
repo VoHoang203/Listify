@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "68a62d4753d427203ee95389"
+  },
+  "name": "hoangdz",
+  "email": "hoang123@email.com",
+  "password": "$2b$10$wJwQcjv5rn.MON1FoPj2kOKErXwhTxoNyIH2PIUWKfl0dknrHyCAW",
+  "role": "customer",
+  "cartItems": [],
+  "createdAt": {
+    "$date": "2025-08-20T20:17:11.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T20:17:11.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a642c7eaf3b7fa70b69f44"
+  },
+  "name": "hoangdz",
+  "email": "hoang13@email.com",
+  "password": "$2b$10$CMiMkLs2svRTcBG/ZrVUyeDJMX1p1pePa84uygKej5OW5vtZAGviC",
+  "role": "customer",
+  "cartItems": [],
+  "createdAt": {
+    "$date": "2025-08-20T21:48:55.264Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T21:48:55.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a6440032b90640de131363"
+  },
+  "name": "hoangdz",
+  "email": "hoang1@email.com",
+  "password": "$2b$10$jcjNJsHgcilm01w5KFHp/uqO4Niv1Hg3aWK9Nt.szqBErRPzM3Frq",
+  "role": "seller",
+  "cartItems": [],
+  "createdAt": {
+    "$date": "2025-08-20T21:54:08.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T07:35:12.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac7fd1ae9f5f50b3d99abe"
+  },
+  "name": "Võ Hoàng",
+  "email": "hoang@email.com",
+  "password": "$2b$10$lSqtb0KzoY50WM/SS6k.subuev9cEt5N4oSy1lkPG4tVQKv8c9lTW",
+  "role": "seller",
+  "cartItems": [
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68addf7173bc674945902ea4"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68addf7273bc674945902ea8"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68addf7273bc674945902ead"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68ae69be0fcd121ec5385825"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68ae72170fcd121ec538587f"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68aeb4216b889e357c0171d9"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68aeb4216b889e357c0171e2"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68aeb4226b889e357c0171ec"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68aeb4256b889e357c0171fb"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-25T15:22:57.952Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T07:30:45.294Z"
+  },
+  "__v": 9
+},
+{
+  "_id": {
+    "$oid": "68adc709491be28a6a55a0f2"
+  },
+  "name": "Võ Hoàng",
+  "email": "hoang3@email.com",
+  "password": "$2b$10$E/xqU/ngixy6VRPbWtavleB5pYbZSDDRLSeBbgtlpb3NskPppWKpK",
+  "role": "seller",
+  "cartItems": [],
+  "createdAt": {
+    "$date": "2025-08-26T14:39:05.760Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T14:40:04.301Z"
+  },
+  "__v": 0
+}]
